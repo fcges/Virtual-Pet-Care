@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Virtual Pet Care:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Virtual_Pet_Care_jar</output-path>
+    <root id="archive" name="Virtual Pet Care.jar">
+      <element id="module-output" name="Virtual Pet Care" />
+    </root>
+  </artifact>
+</component>
